@@ -21,11 +21,11 @@ pip install colorama
 ## How to Run
 1. Clone the repository to your local machine.
 ```bash
-git clone 
+git clone https://github.com/Vignesh16879/Trivium-Cipher.git
 ```
 2. Navigate to the project directory.
 ```bash
-cd Trivium
+cd Trivium-Cipher
 ```
 3. Run the tests using Python:
 ```bash
